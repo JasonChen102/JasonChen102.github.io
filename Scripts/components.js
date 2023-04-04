@@ -43,7 +43,7 @@ const skills = function () {
             },
             {
                 name: 'CSS',
-                image: './images/CSS.svg',
+                image: './images/css.svg',
                 description: 'CSS is critical for creating visually appealing and consistent web designs across devices and platforms.',
             },
             {
